@@ -1,4 +1,4 @@
-# Conformal-mapping-CNN-for-Adaptive-Optics
+# Conformal mapping CNN for Adaptive Optics
 
 A computational method to reshape a distorted PSF via conformal mapping so that a convolutional neural network (CNN) could better recognize it.
 
